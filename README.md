@@ -40,31 +40,31 @@
 
 ## 차례
 
-* [인사말](https://github.com/innovationacademy-kr/tech-hr/blob/master/greeting.md)
-* [사용권](https://github.com/innovationacademy-kr/tech-hr/blob/master/license.md)
-* [프롤로그](https://github.com/innovationacademy-kr/tech-hr/blob/master/prologue.md)
+* [인사말](greeting.md)
+* [사용권](license.md)
+* [프롤로그](prologue.md)
 * PART 1. 개발자 채용 시장에 대한 이해
-  * [10년 전과는 다른 IT 기업](https://github.com/innovationacademy-kr/tech-hr/blob/master/part1/01-or.md)
-  * [개발자 채용 전쟁](https://github.com/innovationacademy-kr/tech-hr/blob/master/part1/02-or.md)
-  * [개발자가 '갑'이다](https://github.com/innovationacademy-kr/tech-hr/blob/master/part1/03-or.md)
-  * [PART1. Action Item](https://github.com/innovationacademy-kr/tech-hr/blob/master/part1/part1-action-item.md)
+  * [10년 전과는 다른 IT 기업](part1/01-or.md)
+  * [개발자 채용 전쟁](part1/02-or.md)
+  * [개발자가 '갑'이다](part1/03-or.md)
+  * [PART1. Action Item](part1/part1-action-item.md)
 * PART 2. 개발자를 맞이할 준비는 되어있는가?
-  * [좋은 인재 채용을 위한 마케팅](https://github.com/innovationacademy-kr/tech-hr/blob/master/part2/01-or.md)
-  * [Selling Point를 잡아라](https://github.com/innovationacademy-kr/tech-hr/blob/master/part2/02-or.md)
-  * [PART2. Action Item](https://github.com/innovationacademy-kr/tech-hr/blob/master/part2/part2-action-item.md)
+  * [좋은 인재 채용을 위한 마케팅](part2/01-or.md)
+  * [Selling Point를 잡아라](part2/02-or.md)
+  * [PART2. Action Item](part2/part2-action-item.md)
 * PART 3. 어떻게 뽑을 것인가?
-  * [채용 준비하기](https://github.com/innovationacademy-kr/tech-hr/blob/master/part3/01-or.md)
-  * [채용 실행하기](https://github.com/innovationacademy-kr/tech-hr/blob/master/part3/02-or.md)
-  * [PART3. Action Item](https://github.com/innovationacademy-kr/tech-hr/blob/master/part3/part3-action-item.md)
+  * [채용 준비하기](part3/01-or.md)
+  * [채용 실행하기](part3/02-or.md)
+  * [PART3. Action Item](part3/part3-action-item.md)
 * PART 4. 관리보다는 케어하라
-  * [떠나기 싫은 회사 만들기](https://github.com/innovationacademy-kr/tech-hr/blob/master/part4/01-or.md)
-  * [개발자들과 소통하는 법](https://github.com/innovationacademy-kr/tech-hr/blob/master/part4/02-or.md)
-  * [팀의 성장은 회사의 성장이다](https://github.com/innovationacademy-kr/tech-hr/blob/master/part4/03-or.md)
-  * [PART4. Action Item](https://github.com/innovationacademy-kr/tech-hr/blob/master/part4/part4-action-item.md)
+  * [떠나기 싫은 회사 만들기](part4/01-or.md)
+  * [개발자들과 소통하는 법](part4/02-or.md)
+  * [팀의 성장은 회사의 성장이다](part4/03-or.md)
+  * [PART4. Action Item](part4/part4-action-item.md)
 * 부록
-  * [고용자가 알아야 할 팁과 사례들](https://github.com/innovationacademy-kr/tech-hr/blob/master/part5/01-or.md)
-  * [기업에서 사용할 수 있는 형식들](https://github.com/innovationacademy-kr/tech-hr/blob/master/part5/02-or.md)
-* [에필로그](https://github.com/innovationacademy-kr/tech-hr/blob/master/epilogue.md)
+  * [고용자가 알아야 할 팁과 사례들](part5/01-or.md)
+  * [기업에서 사용할 수 있는 형식들](part5/02-or.md)
+* [에필로그](epilogue.md)
 
 ## 유용한 링크 정보
 
