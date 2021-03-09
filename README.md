@@ -2,6 +2,8 @@
 
 ![&#xC774;&#xB178;&#xBCA0;&#xC774;&#xC158; &#xC544;&#xCE74;&#xB370;&#xBBF8;](https://innovationacademy.kr/static/media/img-about-logo-primary.88303c97.svg)
 
+[개발자, 채용 가이드북(초판)](https://github.com/FrancsiHan/tech-hr/blob/master/%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%2C%20%E1%84%8E%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%AE%E1%86%A8(%E1%84%8E%E1%85%A9%E1%84%91%E1%85%A1%E1%86%AB).pdf)
+
 ## 개발자, 채용 가이드북
 
 **소프트웨어 개발자가 필요한 회사를 위한 채용 가이드** \(이노베이션 아카데미가 함께 합니다.\)
