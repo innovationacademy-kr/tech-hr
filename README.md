@@ -4,6 +4,7 @@
 
 * [개발자, 채용 가이드북(초판) PDF 다운로드 링크](tech-hr-guide-1.1.pdf)
 * 책자 형태로 직접 인쇄하여 배포하기 위한 출판용 PDF 파일 문의 : qna@innovationacademy.kr
+* 인쇄본 우편 신청(21.03.16~ 선착순 한정 배부) :   https://docs.google.com/forms/d/e/1FAIpQLSfr1jjZKovwH-U21QckZpgEat0Uw6t-Jg93XYKDhCKiB2R6Lg/viewform
 
 ## 개발자, 채용 가이드북
 
