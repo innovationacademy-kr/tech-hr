@@ -61,7 +61,7 @@
 
 ## 유용한 링크 정보
 
-* [이노베이션 아카데미](https://innovationacademy.kr/)
+* [이노베이션 아카데미 ](https://innovationacademy.kr/)
 * [Tech HR에 필요한 유용한 양식들 다운로드](https://github.com/innovationacademy-kr/tech-hr/tree/master/download)
 
 ## 이 문서의 저작권
