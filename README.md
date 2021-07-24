@@ -1,6 +1,6 @@
 # 개발자, 채용 가이드북
 
-##[이노베이션 아카데미 홈페이지](https://innovationacademy.kr)
+[이노베이션 아카데미 홈페이지](https://innovationacademy.kr)
 
 * [개발자, 채용 가이드북(초판) PDF 다운로드 링크](tech-hr-guide-1.1.pdf)
 * 책자 형태로 직접 인쇄하여 배포하기 위한 출판용 PDF 파일 문의 : qna@innovationacademy.kr
