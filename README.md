@@ -67,6 +67,7 @@
 
 * [이노베이션 아카데미 홈페이지](https://innovationacademy.kr/)
 * [Tech HR에 필요한 유용한 양식들 다운로드](https://github.com/innovationacademy-kr/tech-hr/tree/master/download)
+* [노션기반 국내 채용공고 사례](https://www.notion.so/haloswpark/HR-a3065577c737488396045323bb2c3bec)
 
 ## 이 문서의 저작권
 
